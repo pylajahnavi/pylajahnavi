@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pylajahnavi
-- 👀 I’m interested in the sector of Artificial Intelligence and Machine Learning
+- 👀 I’m interested in the sector of Artificial Intelligence and Machine Learning and also in web development
 - 🌱 I’m currently studying B.Tech.
 - 💞️ I’m looking to collaborate on  Github to gain more knowledge as a student
 - 📫 How to reach me.. pylajahnavi23@gmail.com
